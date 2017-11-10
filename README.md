@@ -10,6 +10,7 @@ A list of tools and resources for people who want to learn and/or practise typin
 * [Keybr.com](https://www.keybr.com)
 * [Nitro Type](https://www.nitrotype.com)
 * [Ten Thumbs Typing Tutor](http://www.tenthumbstypingtutor.com) :moneybag:
+* [TypeRacer](http://play.typeracer.com)
 * [Typing.com](https://www.typing.com)
 
 ## Dvorak
