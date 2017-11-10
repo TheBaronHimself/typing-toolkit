@@ -12,5 +12,8 @@ A list of tools and resources for people who want to learn and/or practise typin
 * [Ten Thumbs Typing Tutor](http://www.tenthumbstypingtutor.com) :moneybag:
 * [Typing.com](https://www.typing.com)
 
+## Colemak
+* [Tarmak](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/)
+
 ## Dvorak
 * [ABCD](http://gigliwood.com/abcd/)
