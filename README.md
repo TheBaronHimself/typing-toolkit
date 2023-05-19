@@ -4,6 +4,7 @@ A list of tools and resources for people who want to learn and/or practise typin
 
 ## General
 * [10 Fast Fingers](https://10fastfingers.com)
+* [TypingTutor.online](https://typingtutor.online)
 * [Amphetype](https://code.google.com/archive/p/amphetype/) ([source](https://github.com/webiest/amphetype))
 * [Epistory](http://www.epistorygame.com) :moneybag:
 * [Key Hero Typing Test](https://www.keyhero.com)
